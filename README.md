@@ -16,12 +16,12 @@ AI was used to write some of the code and solve errors.
 
 Three apps were created for this project. The Links are below:
 
-#GUI
+GUI:
 The GUI for the prediction was developed using Huggingface and is accessible at the link below.
 
 Prediction Interface: https://huggingface.co/spaces/asafuM/Pollution-Removal-Prediction
 
-#Ethics
+Ethics:
 The ethics analysis for the project are in the following checklists
 
 DEON Ethics Checklist: https://huggingface.co/spaces/asafuM/Deon-Ethics-for-Pollution

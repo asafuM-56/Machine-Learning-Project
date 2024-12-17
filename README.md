@@ -1,8 +1,10 @@
 # Machine-Learning-Project
+Author: Brandon Roman
+Professor/Supervisor: Prof. Jude Okolie
 
-This my Machine Learning Project for my Data Analysis Class
-
-
+---
+This the Machine Learning Project for my Data Analysis Class
+---
 
 This project handled the prediction of the effectiveness of different organic compounds at removing pharmaceutical pollutants
 
@@ -25,6 +27,8 @@ Ethics:
 The ethics analysis for the project are in the following checklists
 
 DEON Ethics Checklist: https://huggingface.co/spaces/asafuM/Deon-Ethics-for-Pollution
+
+---
 
 Ethics DataCard: https://huggingface.co/spaces/asafuM/DataCard-for-Pollution
 

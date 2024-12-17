@@ -14,7 +14,7 @@ AI was used to write some of the code and solve errors.
 
 
 
-Three apps were created for this project. The Links are below:
+---
 
 GUI:
 The GUI for the prediction was developed using Huggingface and is accessible at the link below.

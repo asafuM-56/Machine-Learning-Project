@@ -30,10 +30,8 @@ The ethics analysis for the project are in the following checklists
 
 DEON Ethics Checklist: https://huggingface.co/spaces/asafuM/Deon-Ethics-for-Pollution
 
----
-
 Ethics DataCard: https://huggingface.co/spaces/asafuM/DataCard-for-Pollution
 
-
+---
 
 An error is present in the visual file for the project, this error was a manual interupt of the process by me.

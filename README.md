@@ -1,6 +1,9 @@
 # Machine-Learning-Project
+
 Author: Brandon Roman
 Professor/Supervisor: Prof. Jude Okolie
+
+This project was completed while in attendance at Bucknell University
 
 ---
 This is the Machine Learning Project for my Data Analysis Class

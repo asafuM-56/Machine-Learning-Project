@@ -3,8 +3,8 @@ Author: Brandon Roman
 Professor/Supervisor: Prof. Jude Okolie
 
 ---
-This the Machine Learning Project for my Data Analysis Class
----
+This is the Machine Learning Project for my Data Analysis Class
+
 
 This project handled the prediction of the effectiveness of different organic compounds at removing pharmaceutical pollutants
 
@@ -19,11 +19,13 @@ AI was used to write some of the code and solve errors.
 ---
 
 GUI:
+-
 The GUI for the prediction was developed using Huggingface and is accessible at the link below.
 
 Prediction Interface: https://huggingface.co/spaces/asafuM/Pollution-Removal-Prediction
 
 Ethics:
+-
 The ethics analysis for the project are in the following checklists
 
 DEON Ethics Checklist: https://huggingface.co/spaces/asafuM/Deon-Ethics-for-Pollution
